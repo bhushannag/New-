@@ -1,0 +1,9 @@
+
+#input-email{
+    padding-top: 10px;
+}
+body{
+    background-image: url("../../assets/images/loginbg.jfif");
+    /* background: linear-gradient(to bottom, #ffff99 0%, #99ccff 100%); */
+    background-size: cover;
+}

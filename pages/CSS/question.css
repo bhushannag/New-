@@ -1,0 +1,29 @@
+.row{
+    margin-top:40px;
+    padding: 0 10px;
+}
+
+.clickable{
+    cursor: pointer;   
+}
+
+.panel-heading span {
+	margin-top: -20px;
+	font-size: 15px;
+}
+.div2 {
+    border: 1px solid black;
+    padding-left: 20px;
+    padding-top: 10px;
+    background-color:lightgreen;
+}
+
+#btn {
+    float: right;
+    margin-top: 7px;
+    margin-right: 5px;
+}
+
+.div {
+    text-align: center;
+}

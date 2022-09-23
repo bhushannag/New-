@@ -1,0 +1,20 @@
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.intro{
+    background: linear-gradient(to bottom, #ffffff 0%, #ff9966 100%);
+    font-size: 20px;
+}
+.who{
+    color: brown;
+    font-weight: bold;
+}
+.card-img-top{
+    height:200px;
+}
+.card-img-top-dev-female{
+    height: 50px;
+}

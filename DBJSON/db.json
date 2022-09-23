@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "userEmail": "bhushan@cybage.com",
+      "userPassword": "123456",
+      "id": 1
+    },
+    {
+      "userEmail": "chetan@cybage.com",
+      "userPassword": "123456",
+      "id": 2
+    },
+    {
+      "userEmail": "ashwini@cybage.com",
+      "userPassword": "123",
+      "id": 3
+    },
+    {
+      "userEmail": "xyz@gmail.com",
+      "userPassword": "123456",
+      "id": 4
+    },
+    {
+      "userEmail": "bhushannag@cybage.com",
+      "userPassword": "123456",
+      "id": 5
+    },
+    {
+      "userEmail": "",
+      "userPassword": "",
+      "id": 6
+    },
+    {
+      "userEmail": "sdfdsdfsf",
+      "userPassword": "",
+      "id": 7
+    }
+  ],
+  "questions": [
+    {
+      "title": "JAVA",
+      "question": "What is JVM ?",
+      "id": 2
+    },
+    {
+      "title": ".NET",
+      "question": "What are the datatypes in .net ?",
+      "id": 3
+    },
+    {
+      "title": "C++",
+      "question": "what is static polymorphism ?",
+      "id": 6
+    },
+    {
+      "title": "DATA STRUCTURE",
+      "question": "What is linked list ? and different types of linked list ?",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "finalQuestions": [
+    {
+      "title": "PYTHON",
+      "question": "What is python ?",
+      "id": 1
+    },
+    {
+      "title": "C",
+      "question": "what is pointers in c ?",
+      "id": 2
+    },
+    {
+      "title": "SQL",
+      "question": "what are dml commands ?",
+      "id": 3
+    },
+    {
+      "title": "JAVA",
+      "question": "what is arraylist ?",
+      "id": 4
+    },
+    {
+      "title": "SQL",
+      "question": "what is the difference between drop , delete and truncate ?",
+      "id": 5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
